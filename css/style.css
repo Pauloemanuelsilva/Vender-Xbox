@@ -1,0 +1,58 @@
+body{
+ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: rgba(0, 0, 0, 0.829);
+}
+
+header{
+    background-color: rgb(56, 129, 13);
+    padding: 20px;
+    text-align: center;
+}
+
+nav a{
+    display: inline-block;
+    margin: 0 10px;
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+}
+
+section{
+    padding: 40px;
+    border: 1px solid #ffffff;
+
+}
+
+#comprar{
+    background-color: rgb(19, 168, 81);
+    color: aliceblue;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+}
+
+footer{
+    background-color: rgb(10, 126, 35);
+    color: #272424;
+    padding: 10px;
+    text-align: center;
+}
+
+
+ h2{
+    color: rgb(7, 129, 48);
+}
+
+p{
+    color: rgb(255, 248, 248);
+}
+
+li{
+     color: rgb(255, 255, 255);
+ }
+
+ cite{
+    color: #ffffff;
+ }
